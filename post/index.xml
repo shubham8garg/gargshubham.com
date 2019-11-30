@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | SHUBHAM</title>
-    <link>https://shubham8garg.github.io/gargshubham.com/post/</link>
-      <atom:link href="https://shubham8garg.github.io/gargshubham.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://gargshubham.com/post/</link>
+      <atom:link href="https://gargshubham.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 10 Nov 2019 21:51:11 -0500</lastBuildDate>
     <image>
-      <url>https://shubham8garg.github.io/gargshubham.com/img/icon-192.png</url>
+      <url>https://gargshubham.com/img/icon-192.png</url>
       <title>Posts</title>
-      <link>https://shubham8garg.github.io/gargshubham.com/post/</link>
+      <link>https://gargshubham.com/post/</link>
     </image>
     
     <item>
       <title>First Article</title>
-      <link>https://shubham8garg.github.io/gargshubham.com/post/first-article/</link>
+      <link>https://gargshubham.com/post/first-article/</link>
       <pubDate>Sun, 10 Nov 2019 21:51:11 -0500</pubDate>
-      <guid>https://shubham8garg.github.io/gargshubham.com/post/first-article/</guid>
+      <guid>https://gargshubham.com/post/first-article/</guid>
       <description></description>
     </item>
     
