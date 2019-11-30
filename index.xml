@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SHUBHAM</title>
+    <link>https://shubham8garg.github.io/gargshubham.com/</link>
+      <atom:link href="https://shubham8garg.github.io/gargshubham.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>SHUBHAM</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 10 Nov 2019 21:54:26 -0500</lastBuildDate>
+    <image>
+      <url>https://shubham8garg.github.io/gargshubham.com/img/icon-192.png</url>
+      <title>SHUBHAM</title>
+      <link>https://shubham8garg.github.io/gargshubham.com/</link>
+    </image>
+    
+    <item>
+      <title>Paraphrase Generation</title>
+      <link>https://shubham8garg.github.io/gargshubham.com/project/paraphrase-generation/</link>
+      <pubDate>Sun, 10 Nov 2019 21:54:26 -0500</pubDate>
+      <guid>https://shubham8garg.github.io/gargshubham.com/project/paraphrase-generation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>First Article</title>
+      <link>https://shubham8garg.github.io/gargshubham.com/post/first-article/</link>
+      <pubDate>Sun, 10 Nov 2019 21:51:11 -0500</pubDate>
+      <guid>https://shubham8garg.github.io/gargshubham.com/post/first-article/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
